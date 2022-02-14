@@ -147,7 +147,7 @@
             <div class="caption wow fadeInRight">
               <h2 class="fg-dark">PYAE THUTA</h2>
               <p class="fw-medium" style="color: #006666;">Web Developer, Content Manager & UI/UX designer</p>
-              <p>A whizz at designing websites & web development both front and back end. Expert in using content management systems and office technology. Adept in various social media platforms and can work flexibly with both team and individual</p>
+              <p>A whizz at designing websites & web development both front and back end. Experience in software development with Agile Scrum. Adept in various social media platforms and can work flexibly with both team and individual</p>
               <ul class="theme-list">
                 <li class="fg-dark"><b>From:</b> Yangon, Myanmar</li>
                 <li class="fg-dark"><b>Lives In:</b> Yangon, Myanmar</li>
@@ -278,25 +278,25 @@
             <ul class="timeline mt-4 pr-md-5">
 
               <li>
-                <div class="title">2019 - current</div>
+                <div class="title">2022 - current</div>
                 <div class="details">
-                  <h5 style="color:#00b3b3;">School Projects</h5>
-                  <p>School projects include web developments, content managements & designing interaction.</p>
+                  <h5 style="color:#00b3b3;">Junior Web Developer at MIT Pte. Ltd.</h5>
+                  <p>Join <b>Myanmar Information Technology Pte. Ltd.</b> as a <b>junior web-developer</b> on february 8, 2022.</p>
                 </div>
               </li>
 
               <li>
                 <div class="title">2019 - current</div>
                 <div class="details">
-                  <h5 style="color:#00b3b3;">Self-studied courses</h5>
-                  <p>Self-studied new programming languages and business managements from online blogs and courses.</p>
+                  <h5 style="color:#00b3b3;">School Projects and Self-studied courses</h5>
+                  <p>School projects include web developments, content managements & designing interaction.</p>
                 </div>
               </li>
 
               <li>
                 <div class="title">2019</div>
                 <div class="details">
-                  <h5 style="color:#00b3b3;">Freelance development</h5>
+                  <h5 style="color:#00b3b3;">Freelance web development</h5>
                   <p>Develop an E-commerce website with Php, Javascript, Css & Sql for 5 months</p>
                 </div>
               </li>
@@ -308,7 +308,7 @@
     </div> <!-- End page about -->
     
     <!-- Page Service -->
-    <!-- <div class="vg-page page-service" id="services">
+    <div class="vg-page page-service" id="services">
       <h1 class="text-center wow fadeInUp">Services</h1>
       <div class="container">
         <div class="row">
@@ -317,19 +317,9 @@
               <div class="iconic">
                 <span class="ti-layout"></span>
               </div>
-              <h4 class="fg-theme">Web Design</h4>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
-              <a href="#" class="btn btn-theme btn-rounded">Read More</a>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 wow fadeInUp">
-            <div class="card card-body">
-              <div class="iconic">
-                <span class="ti-announcement"></span>
-              </div>
-              <h4 class="fg-theme">SEO</h4>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
-              <a href="#" class="btn btn-theme btn-rounded">Read More</a>
+              <h4 class="fg-theme">Web development</h4>
+              <p>Developing dynamic & responsive websites with PHP, React js, Tailwind Css and so on.</p>
+              <a class="btn btn-theme btn-rounded">Read More</a>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 wow fadeInUp">
@@ -337,44 +327,24 @@
               <div class="iconic">
                 <span class="ti-desktop"></span>
               </div>
-              <h4 class="fg-theme">Web Development</h4>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+              <h4 class="fg-theme">UI/UX designing</h4>
+              <p>Creating user interface and user experience designs with prototying tools like Axure rp.</p>
               <a href="#" class="btn btn-theme btn-rounded">Read More</a>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 wow fadeInUp">
             <div class="card card-body">
               <div class="iconic">
-                <span class="ti-layout"></span>
+                <span class="ti-announcement  "></span>
               </div>
-              <h4 class="fg-theme">Web Design</h4>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
-              <a href="#" class="btn btn-theme btn-rounded">Read More</a>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 wow fadeInUp">
-            <div class="card card-body">
-              <div class="iconic">
-                <span class="ti-announcement"></span>
-              </div>
-              <h4 class="fg-theme">SEO</h4>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
-              <a href="#" class="btn btn-theme btn-rounded">Read More</a>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 wow fadeInUp">
-            <div class="card card-body">
-              <div class="iconic">
-                <span class="ti-desktop"></span>
-              </div>
-              <h4 class="fg-theme">Web Development</h4>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
-              <a href="#" class="btn btn-theme btn-rounded">Read More</a>
+              <h4 class="fg-theme">Project Management</h4>
+              <p>Managing software development projects with Agile Scrum. Planning and reporting with Office tools.</p>
+              <a class="btn btn-theme btn-rounded">Read More</a>
             </div>
           </div>
         </div>
       </div>
-    </div> --> <!-- End page services -->
+    </div> <!-- End page services -->
     
     <!-- Testimonials -->
     <!-- <div class="vg-page p-0" id="testimonial">
@@ -572,8 +542,8 @@
                 <!-- <li class="fg-dark"><b>Phone   :</b> <a href="tel:09796029282" class="call">09796029282</a></li><br> -->
                 <li class="fg-dark"><b>Follow me on &nbsp; </b> 
                     <a href="https://www.facebook.com/pyae.thuta.881" class="call"> <i class="fab fa-facebook-square"></i> </a> &nbsp;
-                    <a href="https://www.instagram.com/idreamof_vinci/" class="call"> <i class="fab fa-instagram-square"></i> </a> &nbsp; 
-                    <a href="https://www.linkedin.com/in/pyae-thuta-a3b80a205/" class="call"> <i class="fab fa-linkedin"></i> </a> 
+                    <a href="https://www.instagram.com/pyaethuta_xix/" class="call"> <i class="fab fa-instagram-square"></i> </a> &nbsp; 
+                    <a href="https://www.linkedin.com/in/pyaethuta/" class="call"> <i class="fab fa-linkedin"></i> </a> 
                 </li><br>
         </ul>
 
